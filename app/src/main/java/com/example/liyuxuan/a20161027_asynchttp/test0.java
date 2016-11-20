@@ -5,4 +5,7 @@ package com.example.liyuxuan.a20161027_asynchttp;
  */
 public class test0 {
     //这是新建的test类
+
+
+    //我完成了这个类fds
 }
