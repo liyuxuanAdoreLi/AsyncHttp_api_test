@@ -25,7 +25,7 @@ import org.json.JSONObject;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URL;
-
+/*我新修改了这个类*/
 public class SecondActivity extends AppCompatActivity {
 
     private TextView et;
