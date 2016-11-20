@@ -7,5 +7,5 @@ public class test0 {
     //这是新建的test类
 
 
-    //我完成了这个类fds
+    //我完成了这个类fdsvfdas
 }
