@@ -40,6 +40,7 @@ public class SecondActivity extends AppCompatActivity {
         et = (TextView) findViewById(R.id.textView);
         im = (ImageView)findViewById(R.id.imgview);
 
+
         AsyncHttpClient ac = new AsyncHttpClient();
         //String url = "http://v.juhe.cn/xiangji_weather/real_time_weather.php?areaid=101010100&key=09efacabea3b6da5643e237c03716b97";
         String url = "http://apis.juhe.cn/cook/query.php";
